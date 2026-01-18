@@ -21,6 +21,17 @@ This project solves that problem by recommending movies based on **content simil
 
 ---
 
+## 📂 Dataset
+
+This project uses the **MovieLens dataset** provided by GroupLens.
+
+- Source: https://grouplens.org/datasets/movielens/
+- Contains movie metadata and user ratings
+- Widely used for building and evaluating recommendation systems
+
+The dataset is not included in this repository due to size constraints.
+
+
 ## ⚙️ Approach & Methodology
 
 1. **Data Preprocessing**
